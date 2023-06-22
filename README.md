@@ -1,9 +1,9 @@
-# ReadMeGenerator
+# ReadME Generator
   ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
   
   ## Description 
-  A gnerator that prompts users with a questionaire to pre build a professional ReadME
+  This ReadME Generator will generate a ReadME file for the user.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -14,16 +14,16 @@
   * [Questions](#questions)
   
   ## Installation 
-  Package.json and npm inquirer
+  The steps required will be to first run node index. That will then bring up a questionaire for the user to fill out. Once those questions are answered then a ReadME file will be created.
 
   ## Usage 
-  answer the questions prompted and a readme file will be generated
+  Answer the questions in the prompt to have to file generated
 
   ## License 
   This project is license under MIT
 
   ## Contributing 
-  This will generate a random readme file for your project
+  This readME generator will generate the file for you so you dont have to spend time making a good readME
 
   ## Tests
   npm
